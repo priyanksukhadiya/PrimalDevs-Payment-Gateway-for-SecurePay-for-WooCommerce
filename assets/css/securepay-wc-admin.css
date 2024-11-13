@@ -1,0 +1,16 @@
+/* securepay-wc-admin.css */
+.expiration-fields select {
+    width: 100px;
+    display: inline-block;
+    margin-right: 10px;
+    height: 40px;
+}
+
+.form-row-first {
+    margin-right: 0;
+}
+
+#ccardNumber,
+#ccvv {
+    width: 100%;
+}
